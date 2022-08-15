@@ -50,7 +50,6 @@ Temos 2 endpoint:
 	"geopoint":{
 		"latitude":  [-6.2514619, -39.2065666],
 		"logintude": [-6.3604404, -39.3243686]
-		
 	}
 }
 
